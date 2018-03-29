@@ -1,0 +1,142 @@
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.dll.config
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.pdb
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\AuthBot.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Autofac.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Chronic.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Connector.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Newtonsoft.Json.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Net.Http.Formatting.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.WebHost.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Autofac.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Connector.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Newtonsoft.Json.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Net.Http.Formatting.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.WebHost.xml
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Attendance Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Attendance Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Application.dll
+C:\Users\Vrushali\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Application.pdb
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.dll.config
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Bot Application.pdb
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\AuthBot.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Autofac.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Chronic.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Connector.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.Platform.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Win32.Primitives.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Newtonsoft.Json.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Net.Http.Formatting.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.WebHost.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Zest_Client.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Zest_Client.pdb
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Autofac.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Bot.Connector.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Identity.Client.Platform.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\Newtonsoft.Json.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Net.Http.Formatting.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\System.Web.Http.WebHost.xml
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Attendance Payroll.csprojResolveAssemblyReference.cache
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Attendance Payroll.csproj.CoreCompileInputs.cache
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Application.dll
+C:\Users\zestt\source\repos\Bot Attendance Payroll\Bot Attendance Payroll\obj\Debug\Bot Application.pdb
